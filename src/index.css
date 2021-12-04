@@ -1,0 +1,21 @@
+.outter {
+  width: 50%;
+  background-color: lightgray;
+  border-radius: 25px;
+  display: flex;
+  justify-content: center;
+}
+
+.inner {
+  width: 90%;
+  margin-block: 5%;
+  background-color: white;
+  border-radius: 30px;
+  display: flex;
+  justify-content: center;
+}
+
+.box {
+  padding-top: 20px;
+  padding-left: 30px;
+}
